@@ -25,3 +25,5 @@ console.log(findSecondLargestNumber([1, 2]));
 console.log(findSecondLargestNumber([1]));
 console.log(findSecondLargestNumber([]));
 console.log(findSecondLargestNumber("asd"));
+console.log(findSecondLargestNumber([10, 10, 10, 9]));
+console.log(findSecondLargestNumber([1, 1, 1]));
